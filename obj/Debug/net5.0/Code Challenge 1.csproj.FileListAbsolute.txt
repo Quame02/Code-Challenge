@@ -1,0 +1,5 @@
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Code Challenge 1\obj\Debug\net5.0\Code Challenge 1.csproj.AssemblyReference.cache
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Code Challenge 1\obj\Debug\net5.0\Code Challenge 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Code Challenge 1\obj\Debug\net5.0\Code Challenge 1.AssemblyInfoInputs.cache
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Code Challenge 1\obj\Debug\net5.0\Code Challenge 1.AssemblyInfo.cs
+C:\Users\ELIAS BASHIRUDEEN\Desktop\Code Challenge 1\obj\Debug\net5.0\Code Challenge 1.csproj.CoreCompileInputs.cache
